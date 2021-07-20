@@ -1,0 +1,11 @@
+//layout
+//routes
+//category pages
+//author pages
+
+
+//HOC-Higher Order Layer
+//Layout First Approach---for example ,header and footer will be same for all pages.
+//here header and footer are layouts
+
+//A common pattern in React is for a component to return multiple elements. Fragments let you group a list of children without adding extra nodes to the DOM.
